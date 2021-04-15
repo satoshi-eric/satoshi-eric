@@ -10,7 +10,7 @@ Tenho interesse em: inteligência artificial, algoritmos, sistemas operacionais,
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi-eric)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-eric&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-eric&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **satoshi-eric/satoshi-eric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
