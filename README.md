@@ -5,7 +5,7 @@ Eu me chamo Eric Satoshi Suzuki kishimoto, faço Sistemas de Informação na **U
 Tenho interesse em: inteligência artificial, algoritmos, sistemas operacionais, web design, hardware, data science, etc
 
 - 🔭 I’m currently working on [Explora Project](https://github.com/Explora-FT)
-- 🌱 I’m currently learning latex, manim, unity, java for desktop apps and google cloud.
+- 🌱 I’m currently learning latex, manim, web development using javascript (react, vue, angular, express)
 - 📫 How to reach me: satoshi.eric@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi-eric)](https://github.com/anuraghazra/github-readme-stats)
