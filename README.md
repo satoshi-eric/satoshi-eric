@@ -4,7 +4,7 @@ Eu me chamo Eric Satoshi Suzuki kishimoto, faço Sistemas de Informação na **U
 
 Tenho interesse em: inteligência artificial, algoritmos, sistemas operacionais, web design, hardware, data science, etc
 
-- 🔭 I’m currently working on [Explora Project](https://github.com/Explora-FT) amd on Itaú Unibanco.
+- 🔭 I’m currently working on [Explora Project](https://github.com/Explora-FT) and on Itaú Unibanco.
 - 🌱 I’m currently learning latex, manim, web development using javascript (react, vue, angular, express), API development using python (django)
 - 📫 How to reach me: satoshi.eric@gmail.com
 
