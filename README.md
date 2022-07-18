@@ -8,9 +8,9 @@ Tenho interesse em: inteligência artificial, algoritmos, sistemas operacionais,
 - 🌱 I’m currently learning latex, manim, web development using javascript (react, vue, angular, express), API development using python (django)
 - 📫 How to reach me: satoshi.eric@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi-eric&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi-eric&count_private=true&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-eric&langs_count=4&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-eric&langs_count=4&count_private=true&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
