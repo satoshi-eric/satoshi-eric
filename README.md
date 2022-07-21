@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-Eu me chamo Eric Satoshi Suzuki kishimoto, faço Sistemas de Informação na **Unicamp**. Gosto muito de computação, matemática, física e animes! 🍙
+I'm Eric Satoshi Suzuki kishimoto, I'm studying Information Systems at Unicamp. I really like computing, math, physics and anime! 🍙
 
-Tenho interesse em: inteligência artificial, algoritmos, sistemas operacionais, web design, hardware, data science, etc
+I am interested in: machine learning, algorithms, operating systems, web design, hardware, API development.
 
-- 🔭 I’m currently working on [Explora Project](https://github.com/Explora-FT) and on Itaú Unibanco.
-- 🌱 I’m currently learning latex, manim, web development using javascript (react, vue, angular, express), API development using python (django)
+- 🔭 I’m currently working on [Explora Project](https://wordpress.ft.unicamp.br/explora/) and on Itaú Unibanco.
+- 🌱 I’m currently learning latex, manim, web development using javascript (react, angular, express), API development using python (django) and machine learning.
 - 📫 How to reach me: satoshi.eric@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi-eric&count_private=true&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi-eric&exclude_repo=machine-learning-course)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-eric&langs_count=4&count_private=true&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-eric&exclude_repo=machine-learning-course)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
