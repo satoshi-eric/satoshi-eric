@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eric Satoshi Suzuki kishimoto, I'm studying Information Systems at Unicamp. I really like computing, math, physics and anime! 🍙
+I'm Eric Satoshi Suzuki kishimoto, I'm studying Information Systems at Unicamp. I really like computing, math, physics, games and anime! 🍙
 
 I am interested in: machine learning, algorithms, operating systems, web design, hardware, API development.
 
