@@ -8,9 +8,9 @@ I am interested in: machine learning, algorithms, operating systems, web design,
 - 🌱 I’m currently learning latex, manim, web development using javascript (react, angular, express), API development using python (django) and machine learning.
 - 📫 How to reach me: satoshi.eric@gmail.com
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi-eric&exclude_repo=machine-learning-course)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi-eric&exclude_repo=machine-learning-course&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-eric&exclude_repo=machine-learning-course)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satoshi-eric&exclude_repo=machine-learning-course&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
