@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Eric Satoshi Suzuki kishimoto, I'm studying Information Systems at Unicamp. I really like computing, math, physics, games and anime! 🍙
+I'm Eric Satoshi Suzuki kishimoto, I'm studying Information Systems at Unicamp. I really like computing, math, physics, games, musical instruments (mostly guitars 🎸) and anime! 🍙
 
-I am interested in: machine learning, algorithms, operating systems, web design, hardware, API development.
+I am interested in: machine learning, algorithms, operating systems, web design, hardware, API development, Cloud Development.
 
 - 🔭 I’m currently working on [Explora Project](https://wordpress.ft.unicamp.br/explora/) and on Itaú Unibanco.
-- 🌱 I’m currently learning latex, manim, web development using javascript (react, angular, express), API development using python (django) and machine learning.
+- 🌱 I’m currently learning web development using javascript (react, angular, express), AWS (Lambda, API Gateway, S3, Cloudfront, etc) and cloudinfrastructure (Terraform, Cloudformation).
 - 📫 How to reach me: satoshi.eric@gmail.com
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoshi-eric&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
